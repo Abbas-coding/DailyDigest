@@ -1,3 +1,6 @@
+This project uses an External API and Only Works on Localhost.
+Get your API Key from https://newsapi.org/ and insert it in App.js for the app to function
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

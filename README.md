@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 # DailyDigest - Real-time News App
+=======
+This project uses an External API and Only Works on Localhost.
+Get your API Key from https://newsapi.org/ and insert it in App.js for the app to function
+
+# Getting Started with Create React App
+>>>>>>> 55fdec7790efc16fec5b68698a0aeffbddf9cd55
 
 ![DailyDigest Logo]()
 

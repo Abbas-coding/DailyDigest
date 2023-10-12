@@ -1,13 +1,11 @@
-<<<<<<< HEAD
+
 # DailyDigest - Real-time News App
-=======
+
 This project uses an External API and Only Works on Localhost.
 Get your API Key from https://newsapi.org/ and insert it in App.js for the app to function
 
 # Getting Started with Create React App
->>>>>>> 55fdec7790efc16fec5b68698a0aeffbddf9cd55
 
-![DailyDigest Logo]()
 
 DailyDigest is a simple and efficient news app that utilizes the NewsAPI to provide real-time news updates. With DailyDigest, you can stay informed about the latest headlines, breaking news, and trending stories from around the world. This README file provides information on how to set up and use the DailyDigest app.
 
